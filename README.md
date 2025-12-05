@@ -54,7 +54,7 @@ Sokoban Reimagined is a modern, lightweight remake of the classic puzzle game *S
 
 - *Arijit* — Auto-Solver, Online Leaderboard, Gameplay  
 - *Riddhi* — Database Management, Online Leaderboard, Gameplay  
-- *Ifte* — Visual & UI Design  
+- *Ifthe* — Visual & UI Design  
 
 ---
 
